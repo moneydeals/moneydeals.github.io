@@ -42,7 +42,7 @@ blockquote:before, blockquote:after,
 q:before, q:after {
 	content: '';
 	content: none;
-	
+
 }
 table {
 	border-collapse: collapse;
@@ -69,7 +69,7 @@ max-width:100%;
 }		
 	
 header{
-background:url(../images/02.jpg)  no-repeat top;
+background:url(../images/02-header.jpg)  no-repeat top;
 background-size:cover;	
 text-align:center;
 color:#fff;
