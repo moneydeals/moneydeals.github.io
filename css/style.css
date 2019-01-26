@@ -132,9 +132,14 @@ h3.main-title {
 	background:#ec6222;
 }				
 
-.box ul li{
-	display:block;	
-	
+.box ul{	
+	margin: 15px 0;
+}
+
+.box ul li {
+    display: block;
+    line-height: 2em;
+    font-size: 1.2em;
 }		
 	
 .orange{
