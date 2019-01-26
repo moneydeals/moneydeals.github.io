@@ -57,6 +57,11 @@ a{
 text-decoration:none;	
 	font-family: -apple-system, BlinkMacSystemFont, "Merriweather", "Oxygen", "Ubuntu", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
 }
+p{
+	font-weight: lighter;
+    line-height: 2em;
+    font-size: 1.2em;
+}
 img{
 width:100%;
 max-width:100%;
@@ -73,20 +78,15 @@ background:rgba(0,0,0,0.2);
 	}	
 header h1{
     color:#ec6222;
-    font-weight: 700;
-    font-size: 43px;
+    font-weight: 900;
+    font-size: 42px;
     margin-top: 85px;
-    text-shadow:0 2px 5px #fff;	
 		
 		}
-header h3{
-text-shadow:1px 1px 2px #000;	
-    ;		
-
-	}		
+		
 header p{
 font-size:12px;
-margin-bottom: 23px;	
+margin-bottom: 24px;	
 	}
 .content{
 background:#F5F5F5;	
@@ -235,7 +235,7 @@ margin:0 auto;
 .social li{
 display:block;
 padding:0 5px;
-line-height:40px;
+line-height:2em;
 	}		
 	}	
 	
