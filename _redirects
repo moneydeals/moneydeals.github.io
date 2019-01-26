@@ -1,0 +1,2 @@
+# Redirect default Netlify subdomain to primary domain
+http://hungry-nobel-acad05.netlify.com/* http://www.moneydeals.club/:splat 301!
